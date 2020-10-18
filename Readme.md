@@ -10,3 +10,5 @@
 [Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1ClassD.txt) и [рисунок](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/class%20diagram.png) диаграммы классов
 
 ![None](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/class%20diagram.png)
+
+## Usecase diagram
