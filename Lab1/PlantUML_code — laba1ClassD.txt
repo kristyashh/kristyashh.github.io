@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Cleaner" as P {
+ Bucket
+ Make (Cleans, Order): clean floor
+}
+hide circle
+@enduml
