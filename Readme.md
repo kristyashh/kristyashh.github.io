@@ -2,7 +2,7 @@
 ## Лабораторная работа №1
 
 Предложение: Убраться в комнате
-![none](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/model_1.jpg)
+![none](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/mod_1.jpg)
 
 Предложение: Клинер Помоет Пол по Заказу с использованием Воды и Средств для мытья полов с помощью Ведра.
 
