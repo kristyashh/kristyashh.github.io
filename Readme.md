@@ -7,4 +7,5 @@
 Предложение: Клинер Помоет Пол по Заказу с использованием Воды и Средств для мытья полов с помощью Ведра.
 
 ## Class diagram
+[Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1ClassD.txt) и [рисунок] ()
 ![None] (*url картинка)
