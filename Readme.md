@@ -4,10 +4,7 @@
 Предложение: Убраться в комнате
 ![none](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/model.jpg)
 
-![None] (*url картинка)
-kristyashh.github.io/Lab1/model.jpg
-
-Предложения после: 
+Предложение: Клинер Убирает Комнату по Заказу с использованием Воды и Средств для мытья полов с помощью Ведра.
 
 Диаграмма прецедентов: 
 ![None] (*url картинка)
