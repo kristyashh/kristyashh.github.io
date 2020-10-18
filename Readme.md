@@ -12,6 +12,6 @@
 ![None](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/class%20diagram.png)
 
 ## Usecase diagram
-[Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1UseCase.txt) и [рисунок] (https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/Usecase%20diagram.png) диаграммы прецедентов
+[Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1UseCase.txt) и [рисунок](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/Usecase%20diagram.png) диаграммы прецедентов
 
 ![None](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/Usecase%20diagram.png)
