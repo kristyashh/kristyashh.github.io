@@ -2,7 +2,7 @@
 ## Лабораторная работа №1
 
 Предложение: Убраться в комнате
-![none](https://github.com/kristyashh.github.io/lab1/model.jpg)
+![none](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/model.jpg)
 
 ![None] (*url картинка)
 kristyashh.github.io/Lab1/model.jpg
