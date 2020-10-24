@@ -1,17 +1,4 @@
 # [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Шляпкина Кристина
-## Лабораторная работа №1
+## Домашние задания по семинару 1 и семинару 2
 
-Предложение: Убраться в комнате
-![none](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/mod_1.jpg)
-
-Предложение: Клинер Помоет Пол по Заказу с использованием Воды и Средств для мытья полов с помощью Ведра.
-
-## Class diagram
-[Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1ClassD.txt) и [рисунок](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/class%20diagram.png) диаграммы классов
-
-![None](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/class%20diagram.png)
-
-## Usecase diagram
-[Текст](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/PlantUML_code%20—%20laba1UseCase.txt) и [рисунок](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/Usecase%20diagram.png) диаграммы прецедентов
-
-![None](https://github.com/kristyashh/kristyashh.github.io/blob/master/Lab1/Usecase%20diagram.png)
+## Отчет[] по лабораторным работам 1-3
