@@ -5,6 +5,6 @@
 
 ## Домашние задания по [семинарам 3-4](https://github.com/kristyashh/kristyashh.github.io/wiki/Деловая-игра)
 
-## [Отчет](https://github.com/kristyashh/kristyashh.github.io/blob/master/Readme.md) по лабораторным работам 4-6
+## [Отчет](https://github.com/kristyashh/kristyashh.github.io/wiki/Отчет-по-деловой-игре) по лабораторным работам 4-6
 
 ## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam08-2) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam13-6)
