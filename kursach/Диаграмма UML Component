@@ -1,0 +1,15 @@
+@startuml
+skinparam monochrome true
+
+component [Сайт кафедры ИС] as DB
+component [ИС] as IS
+component [Устройства отображения информации] as HMD
+
+() "LAN" as L
+() "HTTP API" as File
+
+DB - File
+File - IS
+IS - L
+L - HMD
+@enduml
