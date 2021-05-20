@@ -7,6 +7,7 @@ left to right direction
 actor P1 as "Модератор"
 actor P2 as "Администратор"
 actor P3 as "Пользователь"
+actor K1 as "ИС"
 
   usecase F1 as "Вход модератора на сайт"
   usecase F2 as "Вход администратора на сайт"
@@ -26,4 +27,11 @@ actor P3 as "Пользователь"
 
   (F1) -- M1
   (F2) -- M2
+
+  (F3) -- K1
+  (F4) -- K1
+  (F5) -- K1
+  (F6) -- K1
+  (M1) -- K1
+  (M2) -- K1
 @enduml
